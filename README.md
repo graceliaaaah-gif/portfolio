@@ -6,4 +6,4 @@ My name is Grace. My email is graceliaaaah@gmail.com.
 
 
 
-Visite [my website](https://graceliaaaah-gif.github.io/portfolio/)
+Visit [my website](https://graceliaaaah-gif.github.io/portfolio/)
